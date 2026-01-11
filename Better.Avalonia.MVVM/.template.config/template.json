@@ -1,0 +1,14 @@
+{
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  },
+  "$schema": "http://json.schemastore.org/template",
+  "author": "qiuqiu",
+  "classifications": [ "Avalonia", "MVVM" ],
+  "name": "BetterAvaloniaMVVM",
+  "identity": "Better.Avalonia.MVVM",
+  "shortName": "better-avalonia-mvvm",
+  "sourceName": "Better.Avalonia.MVVM",
+  "preferNameDirectory": true
+}
